@@ -10,7 +10,7 @@
 * Github.
 * ec2.
 
-### 1.4 Ejecutar script y aprovisionar recursos.
+### Ejecutar script y aprovisionar recursos.
 
 Desde un shell de comandos en el directorio donde creó la configuración:
 
@@ -20,3 +20,7 @@ Desde un shell de comandos en el directorio donde creó la configuración:
 * Escriba `terraform apply`  para ejecutar la configuración y crear el entorno que especificó.
 
 Una vez ejecutado el script podemos ver los recursos aprovisionados en aws.
+
+
+### Nota.
+En variables.tf hay variables por default se puede cambiar segun la necesidad.
