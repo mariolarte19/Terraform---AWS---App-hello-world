@@ -13,7 +13,7 @@ Configuracion
 
   $ sudo apt update
 
-Comando para desplegar aplicacion 
+Comandos para desplegar aplicacion 
 
 ::
 
