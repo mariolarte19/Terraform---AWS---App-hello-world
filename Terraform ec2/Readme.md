@@ -9,6 +9,9 @@
 * Terraform 
 * Github.
 * ec2.
+### Prerequisitos.
+* Terraform.
+* Key pair: generar key en ec2 dashboard o importar key del repositorio llamada x.pem
 
 ### Ejecutar script y aprovisionar recursos.
 
@@ -23,4 +26,5 @@ Una vez ejecutado el script podemos ver los recursos aprovisionados en aws.
 
 
 ### Nota.
-En variables.tf hay variables por default se puede cambiar segun la necesidad.
+* En variables.tf hay variables por default se puede cambiar segun la necesidad.
+* Si se genero un key pair cambiar el nombre en archivo mainf.tf en la linea 
