@@ -13,7 +13,7 @@ Configuracion
 
   $ sudo apt update
 
-Install necessary minimum dependencies, with the following command:
+Comando para desplegar aplicacion 
 
 ::
 
