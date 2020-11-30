@@ -46,7 +46,7 @@ output "aws_vpc_id" {
     Name = "ec2-Terraform"
   }
 }
-
+#ec2 instance
 resource "aws_instance" "terraform_wapp" {
     ami = "${var.ami}"
     instance_type = "${var.instance_type}"
